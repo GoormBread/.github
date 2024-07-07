@@ -48,7 +48,9 @@ FFmpeg로 영상을 인코딩할 때 기존에는 CPU를 사용해서 해당 과
 
 클라우드 게임을 운영하기 위해 다음과 같은 기술 스택을 도입하였다.
 
-<img src="https://github.com/GoormBread/.github/assets/60954160/bc7c2e48-8073-476a-a280-ed49afdd9395" width="400px" height="500px"/>
+<p align="center">
+<img src="https://github.com/GoormBread/.github/assets/60954160/bc7c2e48-8073-476a-a280-ed49afdd9395" width="400px" height="500px" />
+</p>
 
 ### 게임 배치 (Ingress에 웹소켓 허용) (박상열)
 
